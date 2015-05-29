@@ -1,7 +1,7 @@
 from glob import glob
 from setuptools import setup, find_packages
 setup(name = 'worch-g4lbne',
-      version = '0.0.0',
+      version = '0.0.1',
       description = 'Worch/waf tools and features for building G4LBNE.',
       author = 'Brett Viren',
       author_email = 'brett.viren@gmail.com',

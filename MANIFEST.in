@@ -1,4 +1,4 @@
+include requirements.txt
+include wscript
 recursive-include config *.cfg
 recursive-include patches *.patch
-include requirements
-include wscript

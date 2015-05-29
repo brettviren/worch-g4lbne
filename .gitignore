@@ -1,0 +1,9 @@
+waf
+*.egg-info
+.lock-waf*
+.waf*
+*~
+install
+tmp
+venv
+*.pyc

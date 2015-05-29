@@ -13,7 +13,7 @@ setup(name = 'worch-g4lbne',
 #      data_files = [('share/worch/config/examples', glob('examples/*.cfg')),],
       data_files = [
           ('share/worch/config/g4lbne', glob('config/*.cfg')),
-#          ('share/worch/patches/g4lbne', glob('patches/lbne/*.patch')),
+          ('share/worch/patches/g4lbne', glob('patches/*.patch')),
           ('share/worch/wscripts/g4lbne', ['wscript']),
       ],
 )
